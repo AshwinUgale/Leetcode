@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/AshwinUgale/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AshwinUgale/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AshwinUgale/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AshwinUgale/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/AshwinUgale/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AshwinUgale/Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -30,5 +32,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/AshwinUgale/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AshwinUgale/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
