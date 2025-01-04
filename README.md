@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AshwinUgale/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/AshwinUgale/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/AshwinUgale/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/AshwinUgale/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AshwinUgale/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AshwinUgale/Leetcode/tree/master/0242-valid-anagram) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AshwinUgale/Leetcode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AshwinUgale/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AshwinUgale/Leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AshwinUgale/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AshwinUgale/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
