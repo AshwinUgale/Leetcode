@@ -1,12 +1,12 @@
-class Solution(object):
-    def maxProfit(self, prices):
-        l=0
-        r=1
-        mp=0
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        l,r= 0 ,1
+        mP=0
         while r<len(prices):
-            if prices[r]-prices[l]>mp:
-                mp=prices[r]-prices[l]
-            if prices[l]>prices[r]:
+            if prices[l]<prices[r]:
+                profit= prices[r]-prices[l]
+                mP=max(mP,profit)
+            else:
                 l=r
             r+=1
-        return mp      
+        return mP
