@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AshwinUgale/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AshwinUgale/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/AshwinUgale/Leetcode/tree/master/0036-valid-sudoku) |
+| [0040-combination-sum-ii](https://github.com/AshwinUgale/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/AshwinUgale/Leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/AshwinUgale/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AshwinUgale/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AshwinUgale/Leetcode/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/AshwinUgale/Leetcode/tree/master/0040-combination-sum-ii) |
 ## Linked List
 |  |
 | ------- |
