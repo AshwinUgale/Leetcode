@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/AshwinUgale/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/AshwinUgale/Leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/AshwinUgale/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AshwinUgale/Leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AshwinUgale/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AshwinUgale/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AshwinUgale/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AshwinUgale/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AshwinUgale/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/AshwinUgale/Leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/AshwinUgale/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/AshwinUgale/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AshwinUgale/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/AshwinUgale/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/AshwinUgale/Leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/AshwinUgale/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AshwinUgale/Leetcode/tree/master/0079-word-search) |
 ## Union Find
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/AshwinUgale/Leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/AshwinUgale/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/AshwinUgale/Leetcode/tree/master/0079-word-search) |
 ## Linked List
 |  |
 | ------- |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AshwinUgale/Leetcode/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AshwinUgale/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AshwinUgale/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AshwinUgale/Leetcode/tree/master/0226-invert-binary-tree) |
