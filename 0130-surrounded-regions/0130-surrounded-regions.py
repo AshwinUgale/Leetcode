@@ -3,13 +3,14 @@ class Solution:
         ROWS = len(board)
         COLS = len(board[0])
 
-        unSur = set()
+        # unSur = set()
 
         def countS(r,c):
             if (r < 0 or c < 0 or r == ROWS or c == COLS
-                or board[r][c]!="O" or (r, c) in unSur):
+                or board[r][c]!="O") :
                 return 
-            unSur.add((r,c))
+            # unSur.add((r,c))
+            board[r][c] = "T"
             countS(r+1,c)
             countS(r-1,c)
             countS(r,c+1)
@@ -23,7 +24,12 @@ class Solution:
 
         for r in range(ROWS):
             for c in range(COLS):
-                if board[r][c] == "O" and (r,c) not in unSur:
+                if board[r][c] == "O" :
                     board[r][c] = "X"
+
+        for r in range(ROWS):
+            for c in range(COLS):
+                if board[r][c] == "T":
+                    board[r][c] = "O"
 
             
