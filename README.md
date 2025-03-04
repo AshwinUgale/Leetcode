@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AshwinUgale/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AshwinUgale/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AshwinUgale/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/AshwinUgale/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/AshwinUgale/Leetcode/tree/master/1184-car-pooling) |
 ## Bucket Sort
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AshwinUgale/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AshwinUgale/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AshwinUgale/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AshwinUgale/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AshwinUgale/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AshwinUgale/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/AshwinUgale/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AshwinUgale/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AshwinUgale/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AshwinUgale/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/AshwinUgale/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AshwinUgale/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Trie
 |  |
 | ------- |
@@ -263,4 +267,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/AshwinUgale/Leetcode/tree/master/1184-car-pooling) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AshwinUgale/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AshwinUgale/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
