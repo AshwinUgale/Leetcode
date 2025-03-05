@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AshwinUgale/Leetcode/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/AshwinUgale/Leetcode/tree/master/0778-reorganize-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/AshwinUgale/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
+| [1304-longest-happy-string](https://github.com/AshwinUgale/Leetcode/tree/master/1304-longest-happy-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/AshwinUgale/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/AshwinUgale/Leetcode/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/AshwinUgale/Leetcode/tree/master/1184-car-pooling) |
+| [1304-longest-happy-string](https://github.com/AshwinUgale/Leetcode/tree/master/1304-longest-happy-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -292,4 +294,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/AshwinUgale/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/AshwinUgale/Leetcode/tree/master/0778-reorganize-string) |
+| [1304-longest-happy-string](https://github.com/AshwinUgale/Leetcode/tree/master/1304-longest-happy-string) |
 <!---LeetCode Topics End-->
