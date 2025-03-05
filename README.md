@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AshwinUgale/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AshwinUgale/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AshwinUgale/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/AshwinUgale/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/AshwinUgale/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AshwinUgale/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AshwinUgale/Leetcode/tree/master/0217-contains-duplicate) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AshwinUgale/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AshwinUgale/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AshwinUgale/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/AshwinUgale/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AshwinUgale/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AshwinUgale/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/AshwinUgale/Leetcode/tree/master/0567-permutation-in-string) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AshwinUgale/Leetcode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AshwinUgale/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/AshwinUgale/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AshwinUgale/Leetcode/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/AshwinUgale/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
