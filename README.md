@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AshwinUgale/Leetcode/tree/master/0621-task-scheduler) |
 | [0792-binary-search](https://github.com/AshwinUgale/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/AshwinUgale/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/AshwinUgale/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0990-verifying-an-alien-dictionary](https://github.com/AshwinUgale/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/AshwinUgale/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1039-find-the-town-judge](https://github.com/AshwinUgale/Leetcode/tree/master/1039-find-the-town-judge) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AshwinUgale/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AshwinUgale/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/AshwinUgale/Leetcode/tree/master/0567-permutation-in-string) |
+| [0917-boats-to-save-people](https://github.com/AshwinUgale/Leetcode/tree/master/0917-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AshwinUgale/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/AshwinUgale/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/AshwinUgale/Leetcode/tree/master/0778-reorganize-string) |
+| [0917-boats-to-save-people](https://github.com/AshwinUgale/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/AshwinUgale/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/AshwinUgale/Leetcode/tree/master/1184-car-pooling) |
 ## String
@@ -300,5 +303,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AshwinUgale/Leetcode/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/AshwinUgale/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/AshwinUgale/Leetcode/tree/master/0778-reorganize-string) |
+| [0917-boats-to-save-people](https://github.com/AshwinUgale/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1304-longest-happy-string](https://github.com/AshwinUgale/Leetcode/tree/master/1304-longest-happy-string) |
 <!---LeetCode Topics End-->
