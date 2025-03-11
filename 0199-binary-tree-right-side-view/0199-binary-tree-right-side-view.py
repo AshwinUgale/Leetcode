@@ -17,9 +17,7 @@ class Solution:
                     level.append(r.val)
                     q.append(r.left)
                     q.append(r.right)
-            
             if level:
-                n= level[-1]
-                
+                n= level[-1]  
                 res.append(n)
         return res
