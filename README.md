@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/AshwinUgale/Leetcode/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/AshwinUgale/Leetcode/tree/master/1184-car-pooling) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AshwinUgale/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3809-properties-graph](https://github.com/AshwinUgale/Leetcode/tree/master/3809-properties-graph) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/AshwinUgale/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/AshwinUgale/Leetcode/tree/master/1039-find-the-town-judge) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AshwinUgale/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3809-properties-graph](https://github.com/AshwinUgale/Leetcode/tree/master/3809-properties-graph) |
 ## Math
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AshwinUgale/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AshwinUgale/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AshwinUgale/Leetcode/tree/master/0200-number-of-islands) |
+| [3809-properties-graph](https://github.com/AshwinUgale/Leetcode/tree/master/3809-properties-graph) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AshwinUgale/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AshwinUgale/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AshwinUgale/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [3809-properties-graph](https://github.com/AshwinUgale/Leetcode/tree/master/3809-properties-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/AshwinUgale/Leetcode/tree/master/0463-island-perimeter) |
 | [0753-open-the-lock](https://github.com/AshwinUgale/Leetcode/tree/master/0753-open-the-lock) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AshwinUgale/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [3809-properties-graph](https://github.com/AshwinUgale/Leetcode/tree/master/3809-properties-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -350,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/AshwinUgale/Leetcode/tree/master/0207-course-schedule) |
 | [1039-find-the-town-judge](https://github.com/AshwinUgale/Leetcode/tree/master/1039-find-the-town-judge) |
+| [3809-properties-graph](https://github.com/AshwinUgale/Leetcode/tree/master/3809-properties-graph) |
 ## Simulation
 |  |
 | ------- |
