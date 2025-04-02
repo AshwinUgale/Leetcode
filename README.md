@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AshwinUgale/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AshwinUgale/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/AshwinUgale/Leetcode/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/AshwinUgale/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0917-boats-to-save-people](https://github.com/AshwinUgale/Leetcode/tree/master/0917-boats-to-save-people) |
 ## Hash Table
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AshwinUgale/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/AshwinUgale/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AshwinUgale/Leetcode/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/AshwinUgale/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0753-open-the-lock](https://github.com/AshwinUgale/Leetcode/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/AshwinUgale/Leetcode/tree/master/0778-reorganize-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/AshwinUgale/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/AshwinUgale/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/AshwinUgale/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AshwinUgale/Leetcode/tree/master/0213-house-robber-ii) |
+| [0647-palindromic-substrings](https://github.com/AshwinUgale/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/AshwinUgale/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 ## Sliding Window
 |  |
