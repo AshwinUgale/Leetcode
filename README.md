@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AshwinUgale/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AshwinUgale/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AshwinUgale/Leetcode/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/AshwinUgale/Leetcode/tree/master/0684-redundant-connection) |
 | [3809-properties-graph](https://github.com/AshwinUgale/Leetcode/tree/master/3809-properties-graph) |
 ## Dynamic Programming
 |  |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/AshwinUgale/Leetcode/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/AshwinUgale/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AshwinUgale/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/AshwinUgale/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/AshwinUgale/Leetcode/tree/master/0733-flood-fill) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AshwinUgale/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [3809-properties-graph](https://github.com/AshwinUgale/Leetcode/tree/master/3809-properties-graph) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AshwinUgale/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/AshwinUgale/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/AshwinUgale/Leetcode/tree/master/0463-island-perimeter) |
+| [0684-redundant-connection](https://github.com/AshwinUgale/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/AshwinUgale/Leetcode/tree/master/0733-flood-fill) |
 | [0753-open-the-lock](https://github.com/AshwinUgale/Leetcode/tree/master/0753-open-the-lock) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AshwinUgale/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AshwinUgale/Leetcode/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/AshwinUgale/Leetcode/tree/master/0684-redundant-connection) |
 | [1039-find-the-town-judge](https://github.com/AshwinUgale/Leetcode/tree/master/1039-find-the-town-judge) |
 | [3809-properties-graph](https://github.com/AshwinUgale/Leetcode/tree/master/3809-properties-graph) |
 ## Simulation
