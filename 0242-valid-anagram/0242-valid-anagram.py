@@ -1,13 +1,19 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-       
-        arr1= [0]*26
-        arr2= [0]*26
-        for i in s:
-            arr1[ord(i)-ord('a')]+=1
-        for j in t:
-            arr2[ord(j)-ord('a')]+=1
-        if arr1==arr2:
-            return True
-        else:
+        if len(t)>len(s):
             return False
+        dict1={}
+        dict2={}
+        for i in s:
+            dict1[i]=1+dict1.get(i,0)
+        for i in t:
+            dict2[i]=1+dict2.get(i,0)
+        for n in dict1:
+            n1=dict2.get(n)
+            if n1!=dict1[n]:
+                return False
+        return True
+        n= dict2.get('z')
+        print(n)
+        print(dict1)
+        print(dict2)
