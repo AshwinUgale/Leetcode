@@ -1,6 +1,6 @@
 class Solution(object):
     def containsDuplicate(self, nums):
-        hashm = set()
+        hashm=set()
         for i in nums:
             if i in hashm:
                 return True
