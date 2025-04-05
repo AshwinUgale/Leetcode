@@ -1,16 +1,16 @@
-class Solution(object):
-    def topKFrequent(self, nums, k):
-        count = {}
-        freq = [[] for i in range(len(nums)+1)]
-
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        hashm={}
+        countn=[[] for i in range(len(nums)+1)]
         for n in nums:
-            count[n]=1+count.get(n,0)
-        for n,c in count.items():
-            freq[c].append(n)
-
-        result=[]
-        for i in range(len(freq)-1,0,-1):
-            for n in freq[i]:
-                result.append(n)
-                if len(result)==k:
-                    return result
+            hashm[n]=1+hashm.get(n,0)
+        for n,c in hashm.items():
+            countn[c].append(n)
+        
+        res=[]
+        for i in range(len(countn)-1,0,-1):
+            for n in countn[i]:
+                res.append(n)
+                if len(res) == k:
+                    return res
+                
