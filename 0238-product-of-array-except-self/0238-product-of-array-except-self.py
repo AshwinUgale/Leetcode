@@ -1,16 +1,16 @@
-class Solution(object):
-    def productExceptSelf(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[int]
-        """
-        pre=1
-        post=1
-        res=[1]*len(nums)
+class Solution:
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
+        lp = [1]*len(nums)
+        rp = [1]*len(nums)
+        c=1
+        arr=[1]*len(nums)
         for i in range(len(nums)):
-            res[i]=pre
-            pre*=nums[i]
+            lp[i]=c
+            c=c*nums[i]
+        c=1
         for i in range(len(nums)-1,-1,-1):
-            res[i]*=post
-            post*=nums[i]
-        return res
+            rp[i]=c
+            c=c*nums[i]
+        for i in range(len(nums)):
+            arr[i]=lp[i]*rp[i]
+        return arr
