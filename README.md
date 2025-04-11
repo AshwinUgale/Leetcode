@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AshwinUgale/Leetcode/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/AshwinUgale/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshwinUgale/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/AshwinUgale/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -438,4 +439,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshwinUgale/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/AshwinUgale/Leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
