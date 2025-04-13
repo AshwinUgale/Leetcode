@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AshwinUgale/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/AshwinUgale/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/AshwinUgale/Leetcode/tree/master/0463-island-perimeter) |
+| [0473-matchsticks-to-square](https://github.com/AshwinUgale/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/AshwinUgale/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0621-task-scheduler](https://github.com/AshwinUgale/Leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/AshwinUgale/Leetcode/tree/master/0721-accounts-merge) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/AshwinUgale/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AshwinUgale/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0473-matchsticks-to-square](https://github.com/AshwinUgale/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshwinUgale/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/AshwinUgale/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/AshwinUgale/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AshwinUgale/Leetcode/tree/master/0213-house-robber-ii) |
+| [0473-matchsticks-to-square](https://github.com/AshwinUgale/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0647-palindromic-substrings](https://github.com/AshwinUgale/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/AshwinUgale/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 ## Sliding Window
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/AshwinUgale/Leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/AshwinUgale/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/AshwinUgale/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0473-matchsticks-to-square](https://github.com/AshwinUgale/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshwinUgale/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Linked List
 |  |
@@ -440,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshwinUgale/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/AshwinUgale/Leetcode/tree/master/2998-count-symmetric-integers) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/AshwinUgale/Leetcode/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
