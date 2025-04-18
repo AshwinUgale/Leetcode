@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AshwinUgale/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/AshwinUgale/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AshwinUgale/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/AshwinUgale/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0463-island-perimeter](https://github.com/AshwinUgale/Leetcode/tree/master/0463-island-perimeter) |
 | [0473-matchsticks-to-square](https://github.com/AshwinUgale/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0485-max-consecutive-ones](https://github.com/AshwinUgale/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AshwinUgale/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AshwinUgale/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/AshwinUgale/Leetcode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/AshwinUgale/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/AshwinUgale/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0647-palindromic-substrings](https://github.com/AshwinUgale/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AshwinUgale/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
