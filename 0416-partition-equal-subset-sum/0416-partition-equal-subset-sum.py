@@ -9,6 +9,8 @@ class Solution:
         for i in range(len(nums)):
             temp=set()
             for t in dp:
+                if t+nums[i] == target:
+                    return True
                 temp.add(t+nums[i])
                 temp.add(t)
             dp = temp
