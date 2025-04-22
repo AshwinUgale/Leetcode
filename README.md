@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AshwinUgale/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AshwinUgale/Leetcode/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/AshwinUgale/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/AshwinUgale/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AshwinUgale/Leetcode/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AshwinUgale/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/AshwinUgale/Leetcode/tree/master/0120-triangle) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AshwinUgale/Leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/AshwinUgale/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AshwinUgale/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0473-matchsticks-to-square](https://github.com/AshwinUgale/Leetcode/tree/master/0473-matchsticks-to-square) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/AshwinUgale/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/AshwinUgale/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/AshwinUgale/Leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/AshwinUgale/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AshwinUgale/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/AshwinUgale/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0473-matchsticks-to-square](https://github.com/AshwinUgale/Leetcode/tree/master/0473-matchsticks-to-square) |
