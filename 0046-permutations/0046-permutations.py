@@ -3,13 +3,15 @@ class Solution:
         res = []
         arr = []
         def backtrack():
-            if len(arr)==len(nums):
+            if len(arr) == len(nums):
                 res.append(arr.copy())
-                return
+                return 
             for i in nums:
-                if i not in arr:
-                    arr.append(i)
-                    backtrack()
-                    arr.pop()
+                if i in arr:
+                    continue
+                arr.append(i)
+                backtrack()
+                arr.pop()
+                
         backtrack()
         return res
