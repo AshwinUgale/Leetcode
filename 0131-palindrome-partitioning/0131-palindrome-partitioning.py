@@ -3,24 +3,21 @@ class Solution:
         res = []
         arr = []
         def backtrack(i):
-            if i >= len(s):
+            if i == len(s):
                 res.append(arr.copy())
-                return 
-
+                return
             for j in range(i,len(s)):
-                if self.isPalindrome(s,i,j):
+                if self.ispalin(s[i:j+1]):
                     arr.append(s[i:j+1])
                     backtrack(j+1)
                     arr.pop()
         backtrack(0)
         return res
-       
-       
-       
-       
-    def isPalindrome(self,s,l,r):
-        while l <=r:
-            if s[l]!=s[r]:
+    def ispalin(self,s):
+        l=0
+        r=len(s)-1
+        while l<=r:
+            if s[l] != s[r]:
                 return False
             l+=1
             r-=1
