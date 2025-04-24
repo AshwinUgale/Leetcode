@@ -9,13 +9,12 @@ class Solution:
                    "7": "pqrs",
                    "8": "tuv",
                    "9": "wxyz"}
-        curStr=""
         def backtrack(i,curStr):
             if len(curStr) == len(digits):
                 res.append(curStr)
                 return
+            
             for c in digitsToChar[digits[i]]:
-                
                 backtrack(i+1,curStr+c)
         if digits:
             backtrack(0,"")
