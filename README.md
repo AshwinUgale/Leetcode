@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AshwinUgale/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AshwinUgale/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/AshwinUgale/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AshwinUgale/Leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/AshwinUgale/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/AshwinUgale/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AshwinUgale/Leetcode/tree/master/0079-word-search) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AshwinUgale/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/AshwinUgale/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/AshwinUgale/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AshwinUgale/Leetcode/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/AshwinUgale/Leetcode/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/AshwinUgale/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AshwinUgale/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AshwinUgale/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/AshwinUgale/Leetcode/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/AshwinUgale/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/AshwinUgale/Leetcode/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/AshwinUgale/Leetcode/tree/master/0917-boats-to-save-people) |
