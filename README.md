@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AshwinUgale/Leetcode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/AshwinUgale/Leetcode/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AshwinUgale/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AshwinUgale/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AshwinUgale/Leetcode/tree/master/0268-missing-number) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AshwinUgale/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/AshwinUgale/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AshwinUgale/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/AshwinUgale/Leetcode/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/AshwinUgale/Leetcode/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/AshwinUgale/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AshwinUgale/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/AshwinUgale/Leetcode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshwinUgale/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
