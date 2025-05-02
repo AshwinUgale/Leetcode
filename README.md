@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/AshwinUgale/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/AshwinUgale/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AshwinUgale/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/AshwinUgale/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/AshwinUgale/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/AshwinUgale/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AshwinUgale/Leetcode/tree/master/0051-n-queens) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AshwinUgale/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/AshwinUgale/Leetcode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/AshwinUgale/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AshwinUgale/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AshwinUgale/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AshwinUgale/Leetcode/tree/master/0062-unique-paths) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AshwinUgale/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/AshwinUgale/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AshwinUgale/Leetcode/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/AshwinUgale/Leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/AshwinUgale/Leetcode/tree/master/0778-reorganize-string) |
