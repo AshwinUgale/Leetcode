@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/AshwinUgale/Leetcode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/AshwinUgale/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AshwinUgale/Leetcode/tree/master/0733-flood-fill) |
+| [0871-keys-and-rooms](https://github.com/AshwinUgale/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AshwinUgale/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AshwinUgale/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [3809-properties-graph](https://github.com/AshwinUgale/Leetcode/tree/master/3809-properties-graph) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/AshwinUgale/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AshwinUgale/Leetcode/tree/master/0733-flood-fill) |
 | [0753-open-the-lock](https://github.com/AshwinUgale/Leetcode/tree/master/0753-open-the-lock) |
+| [0871-keys-and-rooms](https://github.com/AshwinUgale/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AshwinUgale/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AshwinUgale/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [3809-properties-graph](https://github.com/AshwinUgale/Leetcode/tree/master/3809-properties-graph) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AshwinUgale/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/AshwinUgale/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AshwinUgale/Leetcode/tree/master/0684-redundant-connection) |
+| [0871-keys-and-rooms](https://github.com/AshwinUgale/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/AshwinUgale/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/AshwinUgale/Leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AshwinUgale/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
