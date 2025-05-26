@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AshwinUgale/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AshwinUgale/Leetcode/tree/master/0684-redundant-connection) |
 | [1039-find-the-town-judge](https://github.com/AshwinUgale/Leetcode/tree/master/1039-find-the-town-judge) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/AshwinUgale/Leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AshwinUgale/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [3809-properties-graph](https://github.com/AshwinUgale/Leetcode/tree/master/3809-properties-graph) |
 ## Simulation
