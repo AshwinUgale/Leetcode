@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/AshwinUgale/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/AshwinUgale/Leetcode/tree/master/0494-target-sum) |
 | [0621-task-scheduler](https://github.com/AshwinUgale/Leetcode/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/AshwinUgale/Leetcode/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AshwinUgale/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0721-accounts-merge](https://github.com/AshwinUgale/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AshwinUgale/Leetcode/tree/master/0733-flood-fill) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/AshwinUgale/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AshwinUgale/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/AshwinUgale/Leetcode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/AshwinUgale/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AshwinUgale/Leetcode/tree/master/0733-flood-fill) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AshwinUgale/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Union Find
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AshwinUgale/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AshwinUgale/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AshwinUgale/Leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/AshwinUgale/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/AshwinUgale/Leetcode/tree/master/0721-accounts-merge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AshwinUgale/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [3809-properties-graph](https://github.com/AshwinUgale/Leetcode/tree/master/3809-properties-graph) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/AshwinUgale/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/AshwinUgale/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/AshwinUgale/Leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/AshwinUgale/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/AshwinUgale/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AshwinUgale/Leetcode/tree/master/0733-flood-fill) |
 | [0871-keys-and-rooms](https://github.com/AshwinUgale/Leetcode/tree/master/0871-keys-and-rooms) |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AshwinUgale/Leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/AshwinUgale/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/AshwinUgale/Leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/AshwinUgale/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/AshwinUgale/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AshwinUgale/Leetcode/tree/master/0733-flood-fill) |
 | [0753-open-the-lock](https://github.com/AshwinUgale/Leetcode/tree/master/0753-open-the-lock) |
