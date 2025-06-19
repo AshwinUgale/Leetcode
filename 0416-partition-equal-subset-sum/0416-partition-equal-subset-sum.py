@@ -11,6 +11,8 @@ class Solution:
         for i in range(len(nums)):
             curdp=set()
             for t in dp:
+                if (t+nums[i] ==target):
+                    return True
                 curdp.add(t+nums[i])
                 curdp.add(t)
             dp=curdp
