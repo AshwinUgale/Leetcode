@@ -1,9 +1,21 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        dp = [amount+1] * (amount+1)
-        dp[0] = 0
-        for a in range(1,amount+1):
+        coins.sort()
+        memo = {0:0}
+
+        def minCoin(amt):
+            if amt in memo:
+                return memo[amt]
+            cur = float('inf')
             for c in coins:
-                if a-c>=0:
-                    dp[a] = min(dp[a],1+dp[a-c])
-        return dp[amount] if dp[amount]!=amount+1 else -1
+                diff = amt - c
+                if diff < 0:
+                    break
+                cur = min(cur,1+minCoin(diff))
+            memo[amt]= cur
+            return cur
+        result = minCoin(amount)
+        if result < float('inf'):
+            return result
+        else:
+            return -1
