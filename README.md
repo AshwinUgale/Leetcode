@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/AshwinUgale/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1039-find-the-town-judge](https://github.com/AshwinUgale/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1127-last-stone-weight](https://github.com/AshwinUgale/Leetcode/tree/master/1127-last-stone-weight) |
+| [1130-last-stone-weight-ii](https://github.com/AshwinUgale/Leetcode/tree/master/1130-last-stone-weight-ii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AshwinUgale/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/AshwinUgale/Leetcode/tree/master/1184-car-pooling) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshwinUgale/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AshwinUgale/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0747-min-cost-climbing-stairs](https://github.com/AshwinUgale/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AshwinUgale/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1130-last-stone-weight-ii](https://github.com/AshwinUgale/Leetcode/tree/master/1130-last-stone-weight-ii) |
 | [1250-longest-common-subsequence](https://github.com/AshwinUgale/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
 |  |
