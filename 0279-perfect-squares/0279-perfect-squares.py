@@ -8,4 +8,4 @@ class Solution:
                 if target-square<0:
                     break
                 dp[target]=min(dp[target],1+dp[target-square])
-        return dp[target]
+        return dp[n]
