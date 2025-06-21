@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AshwinUgale/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/AshwinUgale/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AshwinUgale/Leetcode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/AshwinUgale/Leetcode/tree/master/0279-perfect-squares) |
 | [1014-k-closest-points-to-origin](https://github.com/AshwinUgale/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshwinUgale/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/AshwinUgale/Leetcode/tree/master/2998-count-symmetric-integers) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AshwinUgale/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/AshwinUgale/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AshwinUgale/Leetcode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/AshwinUgale/Leetcode/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AshwinUgale/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/AshwinUgale/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AshwinUgale/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AshwinUgale/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AshwinUgale/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AshwinUgale/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/AshwinUgale/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/AshwinUgale/Leetcode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AshwinUgale/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/AshwinUgale/Leetcode/tree/master/0463-island-perimeter) |
