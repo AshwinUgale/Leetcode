@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/AshwinUgale/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/AshwinUgale/Leetcode/tree/master/1184-car-pooling) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshwinUgale/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/AshwinUgale/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AshwinUgale/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AshwinUgale/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AshwinUgale/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/AshwinUgale/Leetcode/tree/master/0279-perfect-squares) |
 | [1014-k-closest-points-to-origin](https://github.com/AshwinUgale/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshwinUgale/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/AshwinUgale/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2998-count-symmetric-integers](https://github.com/AshwinUgale/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Binary Search
 |  |
