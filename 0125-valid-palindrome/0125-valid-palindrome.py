@@ -1,5 +1,17 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
+        newS=""
+        for c in s:
+            if c.isalnum():
+                newS+=c.lower() 
+        return newS[::-1]==newS
+
+
+
+
+
+
+
         #solution 1 
         # l,r= 0,len(s)-1
         # while l<=r:
@@ -33,9 +45,9 @@ class Solution:
     #             ord('0')<=ord(c)<=ord('9'))
 
     #solution 3
-        newStr=""
-        for c in s:
-            if c.isalnum():
-                newStr+=c.lower()
-        return newStr == newStr[::-1]
+        # newStr=""
+        # for c in s:
+        #     if c.isalnum():
+        #         newStr+=c.lower()
+        # return newStr == newStr[::-1]
       
