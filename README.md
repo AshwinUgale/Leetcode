@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AshwinUgale/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AshwinUgale/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AshwinUgale/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/AshwinUgale/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/AshwinUgale/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AshwinUgale/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0917-boats-to-save-people](https://github.com/AshwinUgale/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AshwinUgale/Leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/AshwinUgale/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/AshwinUgale/Leetcode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/AshwinUgale/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/AshwinUgale/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AshwinUgale/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/AshwinUgale/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/AshwinUgale/Leetcode/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AshwinUgale/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/AshwinUgale/Leetcode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/AshwinUgale/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/AshwinUgale/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0473-matchsticks-to-square](https://github.com/AshwinUgale/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/AshwinUgale/Leetcode/tree/master/0494-target-sum) |
