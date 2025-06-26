@@ -6,8 +6,15 @@ class Solution:
         #     if b=="1":
         #         sbc+=1
         # return sbc
+
+        # sbc=0
+        # while n:
+        #     sbc+=n%2
+        #     n=n>>1
+        # return sbc
+
         sbc=0
         while n:
-            sbc+=n%2
-            n=n>>1
+            n=n&(n-1)
+            sbc+=1
         return sbc
