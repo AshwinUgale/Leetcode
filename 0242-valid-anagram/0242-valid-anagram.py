@@ -1,18 +1,13 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        if len(t)!=len(s):
+        if len(s)!=len(t):
             return False
-        dict1={}
-        dict2={}
+        hset={}
         for i in range(len(s)):
-            dict1[s[i]]=1+dict1.get(s[i],0)
-            dict2[t[i]]=1+dict2.get(t[i],0)
-        for n in dict1:
-            n1=dict2.get(n)
-            if n1!=dict1[n]:
+            hset[s[i]]=hset.get(s[i],0)+1
+            hset[t[i]]=hset.get(t[i],0)-1
+        for n in hset.values():
+            if n != 0:
                 return False
         return True
-        n= dict2.get('z')
-        print(n)
-        print(dict1)
-        print(dict2)
+        
