@@ -1,13 +1,10 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         newS=""
-        for c in s:
-            if c.isalnum():
-                newS+=c.lower() 
-        return newS[::-1]==newS
-
-
-
+        for i in range(len(s)-1,-1,-1):
+            if s[i].isalnum():
+                newS+=s[i].lower()
+        return newS==newS[::-1]
 
 
 
