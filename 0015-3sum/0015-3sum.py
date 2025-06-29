@@ -13,11 +13,8 @@ class Solution:
                 if nums[l]+nums[f]+nums[s]==0:
                     res.append([nums[l],nums[f],nums[s]])
                     f+=1
-                    s-=1
                     while f<s and nums[f]==nums[f-1]:
                         f+=1
-                    while f<s and nums[s]==nums[s+1]:
-                        s-=1
                 elif nums[l]+nums[f]+nums[s]>0:
                     s-=1
                 else:
