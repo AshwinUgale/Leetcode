@@ -4,16 +4,14 @@ class Solution:
         for c in s:
             if c =="(" or c =="{" or c =="[":
                 arr.append(c)
+            elif c == ")" and arr and arr[-1]=="(":
+                arr.pop(-1)
+            elif c == "}" and arr and arr[-1]=="{":
+                arr.pop(-1)
+            elif c == "]" and arr and arr[-1]=="[":
+                arr.pop(-1)
             else:
-                if c == ")" and arr and arr[-1]=="(":
-                    arr.pop(-1)
-                    print(arr) 
-                elif c == "}" and arr and arr[-1]=="{":
-                    arr.pop(-1)
-                elif c == "]" and arr and arr[-1]=="[":
-                    arr.pop(-1)
-                else:
-                    return False
+                return False
         if len(arr)==0 :
             return True
         else:
