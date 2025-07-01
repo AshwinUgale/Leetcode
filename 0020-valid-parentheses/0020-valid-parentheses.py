@@ -1,14 +1,20 @@
-class Solution(object):
-    def isValid(self, s):
-        stack = []
-        dic={")":"(","]":"[","}":"{"}
+class Solution:
+    def isValid(self, s: str) -> bool:
+        arr=[]
         for c in s:
-            if c in dic:
-                if stack and stack[-1]==dic[c]:
-                    stack.pop()
+            if c =="(" or c =="{" or c =="[":
+                arr.append(c)
+            else:
+                if c == ")" and arr and arr[-1]=="(":
+                    arr.pop(-1)
+                    print(arr) 
+                elif c == "}" and arr and arr[-1]=="{":
+                    arr.pop(-1)
+                elif c == "]" and arr and arr[-1]=="[":
+                    arr.pop(-1)
                 else:
                     return False
-            else:
-                stack.append(c)
-        return True if not stack else False
-        
+        if len(arr)==0 :
+            return True
+        else:
+            return False
