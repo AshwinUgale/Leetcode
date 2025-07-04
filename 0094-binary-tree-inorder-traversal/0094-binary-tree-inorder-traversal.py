@@ -16,5 +16,5 @@ class Solution:
             dfs(root.left)
             arr.append(root.val)
             dfs(root.right)
-            return arr
-        return dfs(root)
+        dfs(root)
+        return arr
