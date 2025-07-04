@@ -19,12 +19,12 @@ class Solution:
         maxDepth=0
         while stack:
             r,d=stack.pop(),depth.pop()
-            if r.right:
+            if r:
+                maxDepth=max(maxDepth,d)
                 stack.append(r.right)
                 depth.append(d+1)
-            if r.left:
                 stack.append(r.left)
                 depth.append(d+1)
-            maxDepth=max(maxDepth,d)
+            
         return maxDepth
 
