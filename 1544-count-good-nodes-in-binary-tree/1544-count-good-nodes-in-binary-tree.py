@@ -6,12 +6,15 @@
 #         self.right = right
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
-        def dfs(node,maxVal):
-            if not node:
-                return 0
-            res = 1 if node.val >= maxVal else 0
-            maxVal = max(maxVal,node.val)
-            res+=dfs(node.left,maxVal)
-            res+=dfs(node.right,maxVal)
-            return res
-        return dfs(root,root.val)
+        count=0
+        def dfs(root,curM):
+            nonlocal count
+            if not root:
+                return
+            if root.val>=curM:
+                count+=1
+            curM=max(root.val,curM)
+            dfs(root.left,curM)
+            dfs(root.right,curM)
+        dfs(root,-float('inf'))
+        return count
