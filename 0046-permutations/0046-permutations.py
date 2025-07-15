@@ -1,9 +1,9 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-        res = []
-        arr = []
+        arr=[]
+        res=[]
         def backtrack():
-            if len(arr) == len(nums):
+            if len(arr)==len(nums):
                 res.append(arr.copy())
                 return 
             for i in nums:
@@ -12,6 +12,6 @@ class Solution:
                 arr.append(i)
                 backtrack()
                 arr.pop()
-                
         backtrack()
         return res
+                
