@@ -1,24 +1,26 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
-        ROWS = len(board)
-        COLS = len(board[0])
-        hashs = set()
+        rows = len(board)
+        cols = len(board[0])
+        visited=set()
         def backtrack(r,c,i):
             if i == len(word):
                 return True
-            if (r==ROWS or c == COLS or 
-                r < 0 or c < 0 or (r,c) in hashs or
-                board[r][c]!=word[i]):
+            if ((r,c) in visited or r<0 or c<0 
+                or r==rows or c==cols or board[r][c] != word[i]):
                 return
-            hashs.add((r,c))
-            res=  (backtrack(r+1,c,i+1) or
-                   backtrack(r,c+1,i+1) or
-                   backtrack(r,c-1,i+1) or
-                   backtrack(r-1,c,i+1))
-            hashs.remove((r,c))
+
+            visited.add((r,c))
+            res= (backtrack(r+1,c,i+1) or
+                backtrack(r-1,c,i+1) or
+                backtrack(r,c+1,i+1) or
+                backtrack(r,c-1,i+1))
+            visited.remove((r,c))
             return res
-        for r in range(ROWS):
-            for c in range(COLS):
+
+        for r in range(rows):
+            for c in range(cols):
                 if backtrack(r,c,0):
                     return True
+
         return False
