@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/AshwinUgale/Leetcode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/AshwinUgale/Leetcode/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/AshwinUgale/Leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0813-all-paths-from-source-to-target](https://github.com/AshwinUgale/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1160-letter-tile-possibilities](https://github.com/AshwinUgale/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AshwinUgale/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Linked List
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AshwinUgale/Leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/AshwinUgale/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AshwinUgale/Leetcode/tree/master/0733-flood-fill) |
+| [0813-all-paths-from-source-to-target](https://github.com/AshwinUgale/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/AshwinUgale/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AshwinUgale/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AshwinUgale/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/AshwinUgale/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AshwinUgale/Leetcode/tree/master/0733-flood-fill) |
 | [0753-open-the-lock](https://github.com/AshwinUgale/Leetcode/tree/master/0753-open-the-lock) |
+| [0813-all-paths-from-source-to-target](https://github.com/AshwinUgale/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/AshwinUgale/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AshwinUgale/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AshwinUgale/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -535,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/AshwinUgale/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AshwinUgale/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AshwinUgale/Leetcode/tree/master/0684-redundant-connection) |
+| [0813-all-paths-from-source-to-target](https://github.com/AshwinUgale/Leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/AshwinUgale/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/AshwinUgale/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/AshwinUgale/Leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
